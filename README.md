@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in PHP: the missing return statement in a function. The `bug.php` file showcases the faulty code, while `bugSolution.php` provides the corrected version. This seemingly small issue can lead to unexpected behavior and difficult-to-debug problems in applications.
